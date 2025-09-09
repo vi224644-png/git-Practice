@@ -1,1 +1,1 @@
-Giới thiệu: Tôi là Phạm Trần Tuấn Vĩ, MSSV 224644.
+ Đây là README từ nhánh conflict-demo.
